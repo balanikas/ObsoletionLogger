@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObsoletionLogger", "ObsoletionLogger\ObsoletionLogger.csproj", "{C431C5AB-D7D1-4671-8C54-33CB7A8A079A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obsoletion", "Obsoletion\Obsoletion.csproj", "{01FC895E-C6DE-4D43-ADD5-9863AB79F680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C431C5AB-D7D1-4671-8C54-33CB7A8A079A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C431C5AB-D7D1-4671-8C54-33CB7A8A079A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C431C5AB-D7D1-4671-8C54-33CB7A8A079A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C431C5AB-D7D1-4671-8C54-33CB7A8A079A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FC895E-C6DE-4D43-ADD5-9863AB79F680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FC895E-C6DE-4D43-ADD5-9863AB79F680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FC895E-C6DE-4D43-ADD5-9863AB79F680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FC895E-C6DE-4D43-ADD5-9863AB79F680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874640B6-0D3B-477E-B3CF-5B6D9971185C}
+	EndGlobalSection
+EndGlobal
